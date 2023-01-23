@@ -2,6 +2,8 @@ from collections import Counter
 
 # kurwa
 
+#charcoal is a dish best served white
+
 def get_word_lengths(filename):
   word_lengths = []
   with open(filename, 'r') as f:
